@@ -6,4 +6,4 @@
 20250120：<a href="https://github.com/takyo-web/studylog/tree/main/web3.0-development-book">web3.0-development-book/calculateEthereumFee.js</a><br>
 20250121：<a href="https://github.com/takyo-web/studylog/blob/main/web3.0-development-book/smart-contruct-osarai.sol">web3.0-development-book/smart-contruct-osarai.sol</a><br>
 20250123：<a href="https://github.com/takyo-web/studylog/blob/main/web3.0-development-book/smart-contruct-osarai.vyper">web3.0-development-book/smart-contruct-osarai.vyper</a><br>
-20250125：<a href="https://github.com/takyo-web/studylog/blob/main/web3.0-development-book/MyToken.sol">MyToken.sol</a>
+20250125：<a href="https://github.com/takyo-web/studylog/blob/main/web3.0-development-book/MyToken.sol">web3.0-development-book/MyToken.sol</a>
